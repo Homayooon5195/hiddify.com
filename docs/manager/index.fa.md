@@ -1,4 +1,4 @@
----
+docs---
 title: منیجر
 hide:
   # - navigation
